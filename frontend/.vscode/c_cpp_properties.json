@@ -4,7 +4,6 @@
             "name": "Mac",
             "includePath": [
                 "${default}",
-                "/opt/homebrew/",
                 "/opt/homebrew/Cellar/googletest/1.15.2/include"
             ],
             "defines": [],
