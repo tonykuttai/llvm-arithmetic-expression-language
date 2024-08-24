@@ -1,5 +1,0 @@
-CompileFlags:
-  Add:
-    - -I/Volumes/SamsungT5/Learning/LLVM/llvm17/llvm-project/llvm/include/
-    - -fno-rtti
-    - -fno-exceptions
